@@ -46,3 +46,6 @@ src: slides/15-gateway-on-lambda.md
 ---
 src: slides/16-what-now.md
 ---
+---
+src: slides/17-apollo-lambda-efs.md
+---
