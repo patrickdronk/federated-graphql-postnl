@@ -1,5 +1,5 @@
 ---
-clicks: 6
+clicks: 5
 ---
 
 # GraphQL
@@ -11,14 +11,13 @@ clicks: 6
 
 <v-clicks fade :at="1">
 
-- Always POST
 - No under or over-fetching of data
 - Statically typed
 - Errors will be exposed in the response body
 
 </v-clicks>
 
-<div class="mt-5" v-if="$slidev.nav.clicks >= 5">
+<div class="mt-5" v-if="$slidev.nav.clicks >= 4">
 Basic Query
 
 ```graphql
@@ -33,7 +32,7 @@ Basic Query
 ```
 </div>
 </div>
-<div v-if="$slidev.nav.clicks>= 6">
+<div v-if="$slidev.nav.clicks>= 5">
 
 
 Response
