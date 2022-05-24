@@ -8,6 +8,9 @@ src: slides/2-me.md
 src: slides/3-DKS.md
 ---
 ---
+src: slides/3-DKS-continued.md
+---
+---
 src: slides/4-graphql.md
 ---
 ---

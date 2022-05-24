@@ -4,3 +4,11 @@ We still have the issue of the gateway being pull based (e.g. latency in graph u
 
 #### Lambda Storage Options
 <img src="/img_1.png" class="h-80 rounded shadow"/>
+
+<div class="abs-br m-6 flex gap-2">
+<img 
+        src="https://cdn.freebiesupply.com/logos/large/2x/postnl-3-logo-png-transparent.png"
+        height="40"
+        width="40"
+    >
+</div>
