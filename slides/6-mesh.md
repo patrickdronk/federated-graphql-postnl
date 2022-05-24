@@ -1,5 +1,5 @@
 ---
-clicks: 8
+clicks: 6
 ---
 
 # Data Mesh
@@ -17,14 +17,13 @@ Zhamak Dehghani
 
 <div v-if="$slidev.nav.clicks >= 2">
 
-#### Data mesh
+#### Data mesh properties
 
 <v-clicks fade :at="3">
 
-- Application Data Mesh
-- Domain data owned and served and cross-functional teams. 
-- New data domains can be created correlating data from other domains.
-- Domain oriented data served as a product for other domains to use.
+- Domain data is owned and served by their teams.
+- Domain data is served as a product for other domains to use.
+- New data domains can be created by correlating data from other domains.
 - Domain teams use self-service infra
 
 </v-clicks>
