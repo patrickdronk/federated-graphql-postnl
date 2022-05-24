@@ -9,7 +9,7 @@ clicks: 5
 
 <div v-if="$slidev.nav.clicks >= 1">
 
-###### ServiceList
+###### Schema registry
 <v-clicks fade :at="1">
 
 - Only routing 🧭  
