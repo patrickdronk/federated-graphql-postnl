@@ -1,25 +1,18 @@
 ---
-clicks: 6
+clicks: 4
 ---
 
 # Data Mesh
 
-<div v-if="$slidev.nav.clicks === 0 || $slidev.nav.clicks === 1">
-<img class="h-60" src="https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/thoughtworker-profile/z/pro_zhamak_dehghani_sq3.jpg">
-
-Zhamak Dehghani
-
-</div>
-
 <div grid="~ cols-2 gap-x-8">
-    <img v-if="$slidev.nav.clicks >= 2" class="rounded shadow" src="https://i.ibb.co/KsySjdp/simple-mesh.jpg" height="800" width="800">
+    <img class="rounded shadow" src="https://i.ibb.co/KsySjdp/simple-mesh.jpg" height="800" width="800">
 <div>
 
-<div v-if="$slidev.nav.clicks >= 2">
+<div>
 
 #### Data mesh properties
 
-<v-clicks fade :at="3">
+<v-clicks fade :at="1">
 
 - Domain data is owned and served by their teams.
 - Domain data is served as a product for other domains to use.

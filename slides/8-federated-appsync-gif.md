@@ -1,7 +1,8 @@
-# Introducing EFS to push schema changes
-In the making
+---
+---
 
-<img class="h-100 mx-auto rounded shadow" src="/efs.png"/>
+
+<img class="ml-50 h-80 mt-15" src="/challenge-accepted.png">
 
 <div class="abs-br m-6 flex gap-2">
 <img 

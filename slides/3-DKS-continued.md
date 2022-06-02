@@ -6,4 +6,4 @@ layout: quote
 
 - Create tools for supply chain monitoring and control
 - Connect to many operational input sources 
-- Built an App ecosystem with connected APIs 
+- Built an application ecosystem with connected APIs 

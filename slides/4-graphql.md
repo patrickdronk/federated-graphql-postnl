@@ -12,7 +12,7 @@ clicks: 5
 <v-clicks fade :at="1">
 
 - No under or over-fetching of data
-- Statically typed
+- Statically typed thanks to the SDL  <br>(Schema Definition Language)
 - Errors will be exposed in the response body
 
 </v-clicks>
@@ -33,7 +33,6 @@ Basic Query
 </div>
 </div>
 <div v-if="$slidev.nav.clicks>= 5">
-
 
 Response
 
